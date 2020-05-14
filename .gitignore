@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 text8
 __pycache__/
-data/
+dcgan-svhn/data
 *.pkl
