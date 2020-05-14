@@ -8,3 +8,6 @@ See **batch-norm** folder.
 
 ## Step 3. Deep convolutional GANs.
 See **dcgan-svhn** folder.
+
+## Step 4. Implement a CycleGAN.
+See **cycle-gan** folder.
