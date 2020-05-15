@@ -4,3 +4,4 @@ __pycache__/
 dcgan-svhn/data
 *.pkl
 cycle-gan/summer2winter_yosemite
+cycle-gan/summer2winter-yosemite/
